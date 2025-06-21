@@ -87,7 +87,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url("C:/Users/Lynlyn/Desktop/DARLYN_PORTFOLIO/Complete Responsive Portfolio Website/images/Lynlynbg.png") no-repeat;
+    background: url("../images/Lynlynbg.png") no-repeat;
     background-size: contain;
     background-position: center;
 }
